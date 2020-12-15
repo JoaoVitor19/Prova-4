@@ -1,0 +1,26 @@
+.cadastro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: grey;
+}
+
+#bloco-cadastro{
+    display: flex;
+    flex-direction: column;
+    border: 2px solid black;
+    padding: 50px;
+    width: 700px;
+    align-items: center;
+    background-image: url(../../assets/fundo-inicio.jpg);
+    margin-bottom: 20px;
+}
+#bloco-cadastro a{
+    font-weight: bolder;
+    background-color: grey;
+    border: 2px solid black;
+}
+
+#bloco-cadastro input{
+    margin: 10px;
+}

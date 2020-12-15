@@ -1,0 +1,19 @@
+.home-menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    flex-wrap: wrap;
+    border: 10px solid black;
+}
+.home-right{
+    display: flex;
+    flex-direction: row;
+}
+
+.home-right h2{
+    padding: 20px;
+    color: black;
+    font-size: 20px;
+}
